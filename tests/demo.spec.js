@@ -3,7 +3,7 @@ describe('Demonstração protractor JS', () => {
     var PageDemo = require('./demo.po')
 
     xit('Navegar na pagina Estabelecimento', () => {
-        browser.get('http://testegestaoec.lanet.accorservices.net');
+        browser.get('http://testeurl.com.br');
     });
 
     xit('Login com usuário inválido / Resultado esperado: ', function() {
