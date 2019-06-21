@@ -7,7 +7,7 @@
     "start": "webdriver-manager start",
     "test": "protractor protractor.conf.js"
   },
-  "author": "QA Edenred",
+  "author": "Fabio Araujo",
   "license": "UNLICENSED",
   "private": true,
   "devDependencies": {
