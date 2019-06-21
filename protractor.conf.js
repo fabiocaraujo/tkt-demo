@@ -1,6 +1,6 @@
 exports.config = {
   seleniumAddress: 'http://localhost:4444/wd/hub',
-  baseUrl: 'http://testegestaoec.lanet.accorservices.net/',
+  baseUrl: 'http://testeurl.com.br/',
   specs: 'tests/**/*spec.js',
 
 
